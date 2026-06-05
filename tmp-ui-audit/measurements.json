@@ -1,0 +1,672 @@
+[
+  {
+    "route": "/",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "cards": [
+      {
+        "index": 0,
+        "name": "Isolate Protein Mix",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fcard1.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard1.png&w=828&q=75",
+        "alt": "Isolate Protein Mix - Proteínas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 1132,
+          "left": 17
+        },
+        "natural": {
+          "width": 390,
+          "height": 323,
+          "aspect": 1.2074303405572755
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 0.8282051282051283,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0.17179487179487174,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 1,
+        "name": "Creatine Monohydrate Power",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fcard2.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard2.png&w=828&q=75",
+        "alt": "Creatine Monohydrate Power - Creatinas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 1703,
+          "left": 17
+        },
+        "natural": {
+          "width": 390,
+          "height": 390,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 2,
+        "name": "Combo Lanzamiento",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fcard3.png&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Combo Lanzamiento - Combos",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 2299,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      }
+    ]
+  },
+  {
+    "route": "/productos",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "cards": [
+      {
+        "index": 0,
+        "name": "Isolate Protein Mix",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fcard1.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard1.png&w=828&q=75",
+        "alt": "Isolate Protein Mix - Proteínas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 447,
+          "left": 17
+        },
+        "natural": {
+          "width": 390,
+          "height": 323,
+          "aspect": 1.2074303405572755
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 0.8282051282051283,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0.17179487179487174,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 1,
+        "name": "Proteína Importada Whey",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fprofit006.jpeg&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fprofit006.jpeg&w=828&q=75",
+        "alt": "Proteína Importada Whey - Proteínas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 1018,
+          "left": 17
+        },
+        "natural": {
+          "width": 390,
+          "height": 390,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 2,
+        "name": "Creatine Monohydrate Power",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fcard2.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard2.png&w=828&q=75",
+        "alt": "Creatine Monohydrate Power - Creatinas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 1669,
+          "left": 17
+        },
+        "natural": {
+          "width": 390,
+          "height": 390,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 3,
+        "name": "Creatina Refil Económico",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fprofit007.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Creatina Refil Económico - Creatinas",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 2265,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 4,
+        "name": "Combo Lanzamiento",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fcard3.png&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Combo Lanzamiento - Combos",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 2916,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 5,
+        "name": "Pack Ganancia Muscular",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fprofit005.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Pack Ganancia Muscular - Combos",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 3487,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 6,
+        "name": "Shaker Profit",
+        "category": "Shakers / accesorios",
+        "src": "/_next/image?url=%2Fimages%2Fprofit004.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Shaker Profit - Shakers / accesorios",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 4138,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 7,
+        "name": "Accesorios de entrenamiento",
+        "category": "Shakers / accesorios",
+        "src": "/_next/image?url=%2Fimages%2Fprofit010.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Accesorios de entrenamiento - Shakers / accesorios",
+        "wrapper": {
+          "width": 356,
+          "height": 356,
+          "top": 4709,
+          "left": 17
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "cards": [
+      {
+        "index": 0,
+        "name": "Isolate Protein Mix",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fcard1.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard1.png&w=640&q=75",
+        "alt": "Isolate Protein Mix - Proteínas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1132,
+          "left": 113
+        },
+        "natural": {
+          "width": 475,
+          "height": 393,
+          "aspect": 1.2086513994910941
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 0.8273684210526316,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0.17263157894736836,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 1,
+        "name": "Creatine Monohydrate Power",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fcard2.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard2.png&w=640&q=75",
+        "alt": "Creatine Monohydrate Power - Creatinas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1132,
+          "left": 525
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 2,
+        "name": "Combo Lanzamiento",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fcard3.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard3.png&w=640&q=75",
+        "alt": "Combo Lanzamiento - Combos",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1132,
+          "left": 937
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      }
+    ]
+  },
+  {
+    "route": "/productos",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "cards": [
+      {
+        "index": 0,
+        "name": "Isolate Protein Mix",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fcard1.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard1.png&w=640&q=75",
+        "alt": "Isolate Protein Mix - Proteínas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 383,
+          "left": 113
+        },
+        "natural": {
+          "width": 475,
+          "height": 393,
+          "aspect": 1.2086513994910941
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 0.8273684210526316,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0.17263157894736836,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 1,
+        "name": "Proteína Importada Whey",
+        "category": "Proteínas",
+        "src": "/_next/image?url=%2Fimages%2Fprofit006.jpeg&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fprofit006.jpeg&w=640&q=75",
+        "alt": "Proteína Importada Whey - Proteínas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 383,
+          "left": 525
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 2,
+        "name": "Creatine Monohydrate Power",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fcard2.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard2.png&w=640&q=75",
+        "alt": "Creatine Monohydrate Power - Creatinas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1068,
+          "left": 113
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 3,
+        "name": "Creatina Refil Económico",
+        "category": "Creatinas",
+        "src": "/_next/image?url=%2Fimages%2Fprofit007.jpeg&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fprofit007.jpeg&w=640&q=75",
+        "alt": "Creatina Refil Económico - Creatinas",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1068,
+          "left": 525
+        },
+        "natural": {
+          "width": 475,
+          "height": 712,
+          "aspect": 0.6671348314606742
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 0.6671348314606742,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0.3328651685393258,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 4,
+        "name": "Combo Lanzamiento",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fcard3.png&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcard3.png&w=640&q=75",
+        "alt": "Combo Lanzamiento - Combos",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1753,
+          "left": 113
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 5,
+        "name": "Pack Ganancia Muscular",
+        "category": "Combos",
+        "src": "/_next/image?url=%2Fimages%2Fprofit005.jpeg&w=3840&q=75",
+        "currentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fprofit005.jpeg&w=640&q=75",
+        "alt": "Pack Ganancia Muscular - Combos",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 1753,
+          "left": 525
+        },
+        "natural": {
+          "width": 475,
+          "height": 475,
+          "aspect": 1
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 6,
+        "name": "Shaker Profit",
+        "category": "Shakers / accesorios",
+        "src": "/_next/image?url=%2Fimages%2Fprofit004.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Shaker Profit - Shakers / accesorios",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 2438,
+          "left": 113
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      },
+      {
+        "index": 7,
+        "name": "Accesorios de entrenamiento",
+        "category": "Shakers / accesorios",
+        "src": "/_next/image?url=%2Fimages%2Fprofit010.jpeg&w=3840&q=75",
+        "currentSrc": "",
+        "alt": "Accesorios de entrenamiento - Shakers / accesorios",
+        "wrapper": {
+          "width": 390,
+          "height": 390,
+          "top": 2438,
+          "left": 525
+        },
+        "natural": {
+          "width": 0,
+          "height": 0,
+          "aspect": null
+        },
+        "boxAspect": 1,
+        "visibleWidthFraction": 1,
+        "visibleHeightFraction": 1,
+        "croppedWidthFraction": 0,
+        "croppedHeightFraction": 0,
+        "objectFit": "contain",
+        "objectPosition": "50% 50%",
+        "imgClass": "p-2 object-contain transition duration-500 group-hover:scale-[1.03]",
+        "wrapperClass": "relative aspect-square overflow-hidden bg-[radial-gradient(circle_at_center,rgba(31,77,255,0.16),rgba(0,0,0,0.92)_58%)]",
+        "wrapperOverflow": "hidden"
+      }
+    ]
+  }
+]
