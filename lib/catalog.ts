@@ -43,7 +43,8 @@ export const catalogProducts: CatalogProduct[] = [
     image: "/images/profit006.jpeg",
     description: "Proteína de uso diario para completar tus requerimientos.",
     tags: ["Whey", "Recuperación"],
-
+  },
+  {
     id: "creatine-monohydrate-power",
     name: "Ni idea que es essto",
     categoryId: "proteinas",
