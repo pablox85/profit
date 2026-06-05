@@ -46,7 +46,7 @@ export const catalogProducts: CatalogProduct[] = [
 
     id: "creatine-monohydrate-power",
     name: "Ni idea que es essto",
-    categoryId: "proteina",
+    categoryId: "proteinas",
     category: "Proteínas",
     image: "/images/card2.png",
     description: "Creatina monohidratada para fuerza, potencia y rendimiento (1 kg).",
